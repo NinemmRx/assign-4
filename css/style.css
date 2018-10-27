@@ -1,0 +1,170 @@
+body {
+    background-image: url("../images/bkg.jpg");
+    height: 100%; 
+    margin: 0;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#shrinkWrap {
+    margin: 0 auto;
+    width: 80%;
+    height: 50%;
+  }
+
+.wrapper {
+    width: 940px;
+    margin: 20px auto 20px auto;
+    border: 2px  white;
+    border-style: double;
+}
+.font {
+    font: luminari; 
+    font-size: 65px;
+}
+
+article {
+    clear: both;
+    overflow: auto;
+    width: 100%;
+}
+
+hgroup {
+    margin-top: 40px;
+}
+
+aside {
+    width: 230px;
+    float: left;
+    padding: 0px 0px 0px 20px;
+}
+
+a {
+    color: whitesmoke;
+    text-decoration: none;
+}
+
+section.game {
+    float: left;
+    width: 659px;
+    }
+
+    h1,h2,h3 {
+        text-align: center;
+        margin: 10px 0px 5px 0px;
+        padding: 0px;
+        color: white;
+        
+    }
+
+#display {
+    margin: 30px;
+    padding: 10px;
+    border-radius: 25px;
+    background-color: whitesmoke;
+    border: 2px solid #000000;
+    width: 150px;
+    height: 40px;
+    text-align: center;
+    color: black;
+    background-position: center;
+    position: fixed;
+    left: 480px;
+    top: 150px;
+   } 
+
+#displayrandom {
+    margin: 30px;
+    padding: 10px;
+    border-radius: 25px;
+    background-color: whitesmoke;
+    border: 2px solid #000000;
+    width: 150px;
+    height: 40px;
+    text-align: center;
+    color: black;
+    background-position: center;
+    position: fixed;
+    left: 280px;
+    top: 150px;
+   }    
+
+#result {
+    margin: 30px;
+    padding: 10px;
+    border-radius: 25px;
+    background-color:whitesmoke;
+    border: 2px solid #000000;
+    width: 150px;
+    height: 30px;
+    text-align: center;
+    color: black;
+    position: fixed;
+    left: 370px;
+    top: 250px;
+}   
+
+p {
+    margin: 30px;
+    padding: 10px;
+    border-radius: 25px;
+    border: 2px solid #000000;
+    background-color:whitesmoke;
+    width: 35%;
+    height: 20%;
+    text-align: center;
+    color: black;
+    position: fixed;
+    left: 220px;
+    top: 350px;
+}    
+
+#buttons {
+   text-align: center;
+}
+
+.button-color {
+    background-color:  whitesmoke;
+    width: 80px;
+    height: 80px;
+}
+
+
+input{
+    width: 15%;
+    height: 30%;
+    border: 2px solid #000000;
+    font-size: 20px;
+    text-align: center;
+    position: fixed;
+    left: 980px;
+    top: 350px;
+}
+
+.picture {
+    background-image: url("../images/greenGem.png");
+    background-position: center;
+    background-size: 80px;
+    background-repeat: no-repeat;
+}
+
+.picture2 {
+    background-image: url("../images/pinkGem.png");
+    background-position: center;
+    background-size: 80px;
+    background-repeat: no-repeat;
+}
+
+.picture3 {
+    background-image: url("../images/blueGem.png");
+    background-position: center;
+    background-size: 80px;
+    background-repeat: no-repeat;
+}
+
+.picture4 {
+    background-image: url("../images/red.png");
+    background-position: center;
+    background-size: 80px;
+    background-repeat: no-repeat;
+}
